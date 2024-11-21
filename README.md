@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tahsan Hossain</h1>
 <h3 align="center">A passionate SQA Engineer with frontend development & problem solving skills</h3>
+<h4>About me:</h4>
+<p>A dynamic Computer Science graduate with expertise in software quality assurance and good skills in web development.Bringing hands-on experience in software quality assurance like manual testing, automation testing, APT testing, Database testing and performance testing, along with a good skills in web development. Aiming to leverage this diverse skill set in a position that allows for continuous learning and contribution to innovative software solutions, particularly in the intersection of quality assurance and web development.</p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahsan-sourov1997" alt="tahsan-sourov1997" /></a> </p>
